@@ -4,7 +4,7 @@
       "type": "java",
       "name": "CodeLens (Launch) - Manipulate",
       "request": "launch",
-      "mainClass": "Manipulate",
+      "mainClass": "manipulator.Manipulator",
       "console": "integratedTerminal"
     }
   ]

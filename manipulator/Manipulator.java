@@ -1,10 +1,12 @@
+package manipulator;
+
 import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 import java.io.File;
 
-public class Manipulate {
+public class Manipulator {
 
   public static void main(String[] args) throws IOException {
 
